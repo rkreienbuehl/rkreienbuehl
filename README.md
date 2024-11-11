@@ -1,8 +1,10 @@
 ## Hi, my name is Roger
 
 👷 Software-Engineer (Backend/Frontend) @ [apmatic GmbH](https://apmatic.ch)
+
+👨‍🎓 BSc Computer Science with specialization in Distributed Software Systems
 <br/>
-👨‍🎓 BSc Computer Science
+Thesis: [Interaktive Business Charts für das Kolibri Web UI Tookit](https://github.com/kolibri-ui/ip6-web-ui-toolkit-business-charts)
 
 <!-- 
 ## 📬 Get in Touch
